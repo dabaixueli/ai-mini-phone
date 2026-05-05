@@ -7,3 +7,7 @@
 1. 手机开关机
 2. 浏览器访问各网址
 3. 应用商城
+
+### 操作流程
+npm i/npm install 安装依赖包
+npm run start
