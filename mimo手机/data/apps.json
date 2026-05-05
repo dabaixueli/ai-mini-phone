@@ -1,0 +1,110 @@
+[
+  {
+    "id": "browser",
+    "name": "网页浏览器",
+    "icon": "🌐",
+    "description": "浏览互联网上的任何网页",
+    "installed": true,
+    "system": true,
+    "category": "工具"
+  },
+  {
+    "id": "notes",
+    "name": "备忘录",
+    "icon": "📝",
+    "description": "记录你的想法和待办事项",
+    "installed": true,
+    "system": true,
+    "category": "效率"
+  },
+  {
+    "id": "appstore",
+    "name": "应用商城",
+    "icon": "🛍️",
+    "description": "发现和下载更多精彩应用",
+    "installed": true,
+    "system": true,
+    "category": "系统"
+  },
+  {
+    "id": "calculator",
+    "name": "计算器",
+    "icon": "🔢",
+    "description": "基础数学运算工具",
+    "installed": true,
+    "system": false,
+    "category": "工具"
+  },
+  {
+    "id": "weather",
+    "name": "天气",
+    "icon": "🌤️",
+    "description": "查看今日天气预报",
+    "installed": true,
+    "system": false,
+    "category": "生活"
+  },
+  {
+    "id": "calendar",
+    "name": "日历",
+    "icon": "📅",
+    "description": "查看和管理你的日程",
+    "installed": true,
+    "system": false,
+    "category": "效率"
+  },
+  {
+    "id": "gallery",
+    "name": "相册",
+    "icon": "🖼️",
+    "description": "浏览和管理你的照片",
+    "installed": true,
+    "system": false,
+    "category": "娱乐"
+  },
+  {
+    "id": "music",
+    "name": "音乐",
+    "icon": "🎵",
+    "description": "在线听音乐",
+    "installed": true,
+    "system": false,
+    "category": "娱乐"
+  },
+  {
+    "id": "clock",
+    "name": "时钟",
+    "icon": "⏰",
+    "description": "查看时间和设置闹钟",
+    "installed": true,
+    "system": false,
+    "category": "工具"
+  },
+  {
+    "id": "settings",
+    "name": "设置",
+    "icon": "⚙️",
+    "description": "个性化你的手机设置",
+    "installed": false,
+    "system": false,
+    "category": "系统"
+  },
+  {
+    "id": "contacts",
+    "name": "通讯录",
+    "icon": "👥",
+    "description": "管理你的联系人",
+    "installed": false,
+    "system": false,
+    "category": "社交"
+  },
+  {
+    "id": "camera",
+    "name": "相机",
+    "icon": "📷",
+    "description": "拍摄精彩瞬间",
+    "installed": true,
+    "system": false,
+    "category": "娱乐"
+  }
+]
